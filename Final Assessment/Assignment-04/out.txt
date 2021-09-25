@@ -1,0 +1,6 @@
+1 ()){{})
+
+
+ERROR: 
+Error: Not Balanced Parentheses at line 1
+Error: Duplicate token at line 1
